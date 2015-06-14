@@ -1,2 +1,2 @@
 # projectcm
-This project is the redesign of cmcell website
+This project is  redesign the cmcell website
